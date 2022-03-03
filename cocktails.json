@@ -4,7 +4,7 @@
       "ingredient": [
         {"name":"Gin","type":"Spirit","amount":"2 oz"},
         {"name":"Orange Liqueur","type":"Liqueur","amount":"1 oz"},
-        {"name":"Bitters","type":"Liqueur","amount":"2 dash"},
+        {"name":"Bitters","type":"Other","amount":"2 dash"},
         {"name":"Lime Juice","type":"Juice","amount":"0.75 oz"}
         ],
       "methods":"Shake"
@@ -73,6 +73,13 @@
       ],
       "method":"Gentle Stir",
       "garnish":"Lime Wheel"
+    },
+    {
+      "name": "Kahlua Milk",
+      "ingredient": [
+        {"name":"Coffee Liqueur","type":"Liqueur","amount":"1 oz"},
+        {"name":"Milk","type":"Other","amount":"3 oz"}
+      ]
     }
 ]
 
