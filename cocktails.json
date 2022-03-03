@@ -41,7 +41,7 @@
       "name": "Daiquiri",
       "ingredient": [
         {"name":"Rum","type":"spirit","amount":"1.5 oz"},
-        {"name":"Lime Juice","type":"Juice","amount":"1 oz"}
+        {"name":"Lime Juice","type":"Juice","amount":"1 oz"},
         {"name":"Simple Syrup","type":"Syrup","amount":"0.75 oz"}
         ],
       "method":"shake"
