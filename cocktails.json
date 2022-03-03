@@ -1,28 +1,29 @@
-[
-  {
-    "id":1,
-    "name": "Pegu Club",
-    "ingredient": [
-      {"name":"gin","type":"spirit","amount":"2 oz"},
-      {"name":"orange liqueur","type":"liqueur","amount":"1 oz"},
-      {"name":"bitters","type":"liqueur","amount":"2 dash"},
-      {"name":"lime juice","type":"juice","amount":"0.75 oz"}
-      ],
-    "methods":"shake"
-  },
-  {
-    "id":2,
-    "name": "Magarita",
-    "preperation":"salt rimming",
-    "ingredient": [
-      {"name":"tequila","type":"spirit","amount":"2 oz"},
-      {"name":"orange liqueur","type":"liqueur","amount":"1 oz"},
-      {"name":"lime juice","type":"juice","amount":"1 oz"}
-      ],
-    "method":"shake"
-  }
-]
-  
+{
+  "data":[
+      {
+      "id":1,
+      "name": "Pegu Club",
+      "ingredient": [
+        {"name":"gin","type":"spirit","amount":"2 oz"},
+        {"name":"orange liqueur","type":"liqueur","amount":"1 oz"},
+        {"name":"bitters","type":"liqueur","amount":"2 dash"},
+        {"name":"lime juice","type":"juice","amount":"0.75 oz"}
+        ],
+      "methods":"shake"
+    },
+    {
+      "id":2,
+      "name": "Magarita",
+      "preperation":"salt rimming",
+      "ingredient": [
+        {"name":"tequila","type":"spirit","amount":"2 oz"},
+        {"name":"orange liqueur","type":"liqueur","amount":"1 oz"},
+        {"name":"lime juice","type":"juice","amount":"1 oz"}
+        ],
+      "method":"shake"
+    }
+  ]
+}
       
     
     
