@@ -7,44 +7,72 @@
         {"name":"Bitters","type":"Liqueur","amount":"2 dash"},
         {"name":"Lime Juice","type":"Juice","amount":"0.75 oz"}
         ],
-      "methods":"shake"
+      "methods":"Shake"
     },
     {
       "name": "Magarita",
-      "preperation":"salt rimming",
+      "preperation":"Salt Rimming",
       "ingredient": [
         {"name":"Tequila","type":"Spirit","amount":"2 oz"},
         {"name":"Orange Liqueur","type":"Liqueur","amount":"1 oz"},
         {"name":"Lime Juice","type":"Juice","amount":"1 oz"}
         ],
-      "method":"shake",
-      "garnish":"Lime wheel"
+      "method":"Shake",
+      "garnish":"Lime Wheel"
     },
     {
       "name": "Black Russian",
       "ingredient": [
-        {"name":"Vodka","type":"spirit","amount":"2 oz"},
+        {"name":"Vodka","type":"Spirit","amount":"2 oz"},
         {"name":"Coffee Liqueur","type":"Liqueur","amount":"1 oz"}
         ],
-      "method":"stir"
+      "method":"Stir"
     },
     {
       "name": "Cuba Libre",
       "ingredient": [
-        {"name":"Rum","type":"spirit","amount":"1 oz"},
-        {"name":"Cola","type":"Soda","amount":"fill-up"}
+        {"name":"Rum","type":"Spirit","amount":"1 oz"},
+        {"name":"Cola","type":"Soda","amount":"Fill-up"}
         ],
-      "method":"gentle stir",
-      "garnish":"Lime wedge"
+      "method":"Gentle Stir",
+      "garnish":"Lime Wedge"
     },
    {
       "name": "Daiquiri",
       "ingredient": [
-        {"name":"Rum","type":"spirit","amount":"1.5 oz"},
+        {"name":"Rum","type":"Spirit","amount":"1.5 oz"},
         {"name":"Lime Juice","type":"Juice","amount":"1 oz"},
         {"name":"Simple Syrup","type":"Syrup","amount":"0.75 oz"}
         ],
-      "method":"shake"
+      "method":"Shake"
+    },
+   {
+      "name": "Espresso Martini",
+      "ingredient": [
+        {"name":"Vodka","type":"Spirit","amount":"1 oz"},
+        {"name":"Coffee Liqueur","type":"Liqueur","amount":"1 oz"},
+        {"name":"Espresso Shot","type":"Other","amount":"1 oz"}
+        ],
+      "method":"Shake"
+    },
+    {
+      "name": "Gimlet",
+      "ingredient": [
+        {"name":"Gin","type":"Spirit","amount":"2 oz"},
+        {"name":"Lime Juice","type":"Juice","amount":"0.5 oz"},
+        {"name":"Simple Syrup","type":"Syrup","amount":"0.5 oz"}
+      ],
+      "method":"Shake",
+      "garnish":"Lime Wheel"
+    },
+    {
+      "name": "Gin and Tonic",
+      "ingredient": [
+        {"name":"Gin","type":"Spirit","amount":"2 oz"},
+        {"name":"Tonic Water","type":"Soda","amount":"Fill-up"}
+      ],
+      "method":"Gentle Stir",
+      "garnish":"Lime Wheel"
     }
 ]
 
