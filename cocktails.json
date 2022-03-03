@@ -34,7 +34,7 @@
         {"name":"Rum","type":"spirit","amount":"1 oz"},
         {"name":"Cola","type":"Soda","amount":"fill-up"}
         ],
-      "method":"gentle stir"
+      "method":"gentle stir",
       "garnish":"Lime wedge"
     },
    {
