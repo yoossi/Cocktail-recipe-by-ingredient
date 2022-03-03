@@ -1,23 +1,48 @@
 [
    {
-      "id":1,
       "name": "Pegu Club",
       "ingredient": [
-        {"name":"gin","type":"spirit","amount":"2 oz"},
-        {"name":"orange liqueur","type":"liqueur","amount":"1 oz"},
-        {"name":"bitters","type":"liqueur","amount":"2 dash"},
-        {"name":"lime juice","type":"juice","amount":"0.75 oz"}
+        {"name":"Gin","type":"Spirit","amount":"2 oz"},
+        {"name":"Orange Liqueur","type":"Liqueur","amount":"1 oz"},
+        {"name":"Bitters","type":"Liqueur","amount":"2 dash"},
+        {"name":"Lime Juice","type":"Juice","amount":"0.75 oz"}
         ],
       "methods":"shake"
     },
     {
-      "id":2,
       "name": "Magarita",
       "preperation":"salt rimming",
       "ingredient": [
-        {"name":"tequila","type":"spirit","amount":"2 oz"},
-        {"name":"orange liqueur","type":"liqueur","amount":"1 oz"},
-        {"name":"lime juice","type":"juice","amount":"1 oz"}
+        {"name":"Tequila","type":"Spirit","amount":"2 oz"},
+        {"name":"Orange Liqueur","type":"Liqueur","amount":"1 oz"},
+        {"name":"Lime Juice","type":"Juice","amount":"1 oz"}
+        ],
+      "method":"shake",
+      "garnish":"Lime wheel"
+    },
+    {
+      "name": "Black Russian",
+      "ingredient": [
+        {"name":"Vodka","type":"spirit","amount":"2 oz"},
+        {"name":"Coffee Liqueur","type":"Liqueur","amount":"1 oz"}
+        ],
+      "method":"stir"
+    },
+    {
+      "name": "Cuba Libre",
+      "ingredient": [
+        {"name":"Rum","type":"spirit","amount":"1 oz"},
+        {"name":"Cola","type":"Soda","amount":"fill-up"}
+        ],
+      "method":"gentle stir"
+      "garnish":"Lime wedge"
+    },
+   {
+      "name": "Daiquiri",
+      "ingredient": [
+        {"name":"Rum","type":"spirit","amount":"1.5 oz"},
+        {"name":"Lime Juice","type":"Juice","amount":"1 oz"}
+        {"name":"Simple Syrup","type":"Syrup","amount":"0.75 oz"}
         ],
       "method":"shake"
     }
