@@ -11,7 +11,7 @@
     },
     {
       "name": "Magarita",
-      "preperation":"Salt Rimming",
+      "preperation":"Salt Rim",
       "ingredient": [
         {"name":"Tequila","type":"Spirit","amount":"2 oz"},
         {"name":"Orange Liqueur","type":"Liqueur","amount":"1 oz"},
@@ -80,6 +80,71 @@
         {"name":"Coffee Liqueur","type":"Liqueur","amount":"1 oz"},
         {"name":"Milk","type":"Other","amount":"3 oz"}
       ]
+    },
+    {
+      "name": "Moscow Mule",
+      "ingredient": [
+        {"name":"Vodka","type":"Spirit","amount":"2 oz"},
+        {"name":"Lime Juice","type":"Juice","amount":"0.5 oz"}, 
+        {"name":"Ginger Beer","type":"Soda","amount":"Fill-up"}
+      ],
+      "method":"Gentle Stir",
+      "garnish":"Lime Wheel"
+    },
+   {
+      "name": "Lemon Drop Martini",
+      "ingredient": [
+        {"name":"Vodka","type":"Spirit","amount":"1.5 oz"},
+        {"name":"Lemon Juice","type":"Juice","amount":"1 oz"},
+        {"name":"Simple Syrup","type":"Syrup","amount":"0.5 oz"}, 
+        {"name":"Orange Liqueur","type":"Liqueur","amount":"0.5 oz"}
+      ],
+      "preperation":"Sugar Rim",
+      "method":"Shake",
+      "garnish":"Lemon Wheel"
+    },
+   {
+      "name": "Long Island Iced Tea",
+      "ingredient": [
+        {"name":"Vodka","type":"Spirit","amount":".5 oz"},
+        {"name":"Tequila","type":"Spirit","amount":".5 oz"},
+        {"name":"Rum","type":"Spirit","amount":".5 oz"},
+        {"name":"Gin","type":"Spirit","amount":".5 oz"},
+        {"name":"Lemon Juice","type":"Juice","amount":"1 oz"},
+        {"name":"Simple Syrup","type":"Syrup","amount":"0.75 oz"}, 
+        {"name":"Orange Liqueur","type":"Liqueur","amount":"0.5 oz"}
+      ],
+      "method":"Stir",
+      "garnish":"Lemon Wheel"
+    },
+    {
+      "name": "Old Fashioned",
+      "ingredient": [
+        {"name":"Whiskey","type":"Spirit","amount":"1.5 oz"},
+        {"name":"Simple Syrup","type":"Syrup","amount":"2 teaspoon"},         
+        {"name":"Bitters","type":"Other","amount":"3 dash"}
+      ],
+      "method":"Stir",
+      "garnish":"Orange Peel"
+    },
+    {
+      "name": "Tequila Sour",
+      "ingredient": [
+        {"name":"Tequila","type":"Spirit","amount":"2 oz"},
+        {"name":"Simple Syrup","type":"Syrup","amount":"2 teaspoon"},
+        {"name":"Lemon Juice","type":"Juice","amount":"1 oz"},
+        {"name":"Bitters","type":"Other","amount":"1 dash"}
+      ],
+      "method":"Shake"
+    },
+    {
+      "name": "Whiskey Sour",
+      "ingredient": [
+        {"name":"Whiskey","type":"Spirit","amount":"2 oz"},
+        {"name":"Simple Syrup","type":"Syrup","amount":"0.75 oz"},
+        {"name":"Lemon Juice","type":"Juice","amount":"0.75 oz"}
+      ],
+      "method":"Shake"
     }
 ]
 
